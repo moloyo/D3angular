@@ -23,9 +23,10 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": ["node_modules/d3/dist/d3.js"]
           },
           "configurations": {
             "production": {
